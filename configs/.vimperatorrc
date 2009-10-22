@@ -51,6 +51,8 @@ noremap J <C-d>
 noremap K <C-u>
 noremap <C-l> gt
 noremap <C-h> gT
+noremap <C-p> <Up>
+noremap <C-n> <Down>
 
 "" exモード時の補完候補がTabキーを押さなくても自動的に表示
 set wildoptions=auto
