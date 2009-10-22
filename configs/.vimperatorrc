@@ -1,5 +1,4 @@
 " Vimperator 2.1
-" ubuntu 9.04
 
 "" ブラウザのタイトル変更
 set titlestring=Firefox
