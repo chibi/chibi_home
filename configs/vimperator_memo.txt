@@ -1,0 +1,34 @@
+この.vimperatorrcに依存しているものリスト
+
+
+* 必要なアドオン
+
+- XUL/Migemo
+- Hatena Bookmark
+
+まぁ、無くてもいいんだけど・・・XUL/Migemoは入れておいたほうがいいけど。
+
+
+* 必要なプラグイン
+$HOME/.vimperator/plugin に配置
+
+- char-hints-mod2.js
+- copy.js
+- feedSomeKeys_2.js
+- migemo-find.js
+- migemo_completion.js
+- migemo_hint.js
+- mixiecho.js
+- multi_requester.js
+- nicontroller.js
+- proxy.js
+- tinyurl.js
+- twissr.js
+- twitter.js
+- walk-input.js
+- wassr.js
+
+
+* メモ
+Vimperatorプラグインのチェックアウト
+ $ svn co http://svn.coderepos.org/share/lang/javascript/vimperator-plugins
